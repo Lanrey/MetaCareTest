@@ -1,1 +1,1 @@
-# e-procurement-v2
+# Inventory Management System
