@@ -25,7 +25,7 @@ app.use((err, req, res, next) => {
 });
 
 app.get('/', (request, response) => {
-  response.status(200).send('Welcome to Vendease Inventory Management Backend');
+  response.status(200).send('Welcome to MetaCare');
 });
 
 app.use('/api/v2', routes);
